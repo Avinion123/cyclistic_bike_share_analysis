@@ -1,0 +1,2 @@
+The link to the google disc with all raw data : https://drive.google.com/drive/folders/14cSw5W8mF1X5VUK9w5fyGJVlcX6cPwnH?usp=drive_link
+The link to the google sheet with the modified data used for the visualization : https://docs.google.com/spreadsheets/d/1wxWryqu_h2ll3g8Gzd-S9tXJQaYQScJpgIS1v0k-O_E/edit?gid=1431475464#gid=1431475464
